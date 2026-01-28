@@ -15,10 +15,12 @@ Designed for DIN A6 (105 × 148 mm / 4.1 × 5.8 inches); Larger card sizes may a
 ### Individual Parts
 
 - `KURD_front.stl` - Front panel
-- `KURD_side_1.stl` - Left side panel
-- `KURD_side_2.stl` - Right side panel
-- `KURD_leg_left.stl` - Left support leg
-- `KURD_leg_right.stl` - Right support leg
+- `KURD_side_1.stl` - Side 1 connector
+- `KURD_side_2.stl` - Side 2 connector
+- `KURD_leg_1.stl` - Side 1 support leg
+- `KURD_leg_2.stl` - Side 2 support leg
+
+*_1 and *_2 are mirrored so that the bed texture can be oriented symmetrically when assembled. 
 
 ### Complete Assembly
 
