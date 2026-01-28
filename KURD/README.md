@@ -8,7 +8,7 @@ A compact, 3D printable card stand designed for DIN A6 sized cards.
 
 KURD is a small, practical card stand that can be printed on any standard 3D printer. The design uses a friction-fit assembly system, requiring no glue or additional hardware.
 
-Designed for DIN A6 (105 × 148 mm / 4.1 × 5.8 inches); Larger card sizes may also work depending on the design.
+Designed for DIN A6 (105 × 148 mm / 4.1 × 5.8 inches); Larger card sizes may also work mainly depending on the paper thickness (too thin material tends to just flop over). 
 
 ## Files Included
 
